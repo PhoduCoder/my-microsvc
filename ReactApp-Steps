@@ -1,0 +1,11 @@
+Steps Capture 
+
+npm install -g create-react-app 
+
+create-react-app my-react-app
+
+cd my-react-app 
+
+Remove the code in src/App.js with the below contents 
+
+
