@@ -12,3 +12,6 @@ Remove the code in src/App.js with the below contents
 Run flask app as 
 flask run --host=0.0.0.0
 
+docker build -t myflaskapp .
+
+docker run -p 5000:5000 myflaskapp
